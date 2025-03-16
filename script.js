@@ -1,4 +1,3 @@
-New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give you first-letters navigation
 function hamburg(){
     const navbar = document.querySelector(".dropdown")
     navbar.style.transform  = "translateY(0px)"
@@ -11,9 +10,9 @@ function cancel(){
 // for Typewriter effect
 
 const texts = [
-    "DEVELOPER",
-    "YOUTUBER",
-    "DESIGNER"
+    "PYTHON DEVELOPER",
+    "LINUX ADMINISTRATOR",
+    "THREAT ANALYST"
 ]
 
 let speed = 100;
